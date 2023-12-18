@@ -7,6 +7,7 @@ Hi there! This is RoyalHsyn
 <blockquote>
 FOLLOW US
 <br>
+    <a href="https://www.linkedin.com/in/royal-huseynov-034145278/"><img src="https://img.shields.io/badge/LinkedIn%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
   <a href="https://www.instagram.com/royalhsyn/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </blockquote>
 
